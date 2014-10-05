@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Design Challenge 1</title>
+</head>
+
+<body>
+
+	<h2>Which two websites are you most inspired by?</h2>
+		<p><a href="http://www.kickstarter.com/year/2013" target="_blank">Site 1</a> and <a href="http://julia-music.ru/" target="_blank">Site 2</a> are two sites that I really liked.</p>
+
+	<h2>How do they exhibit effective use of space, size or balance?</h2>
+		<p>Both sites have very different purposes. Site 1 is an annual report, and therefore seeks to communicate key pieces of factual information to the user. Site 2 is a musician's website. It seeks to promote her as an artist, and showcase her background and achievements. However, both websites are trying to make an impact, and convey information to the viewer.</p>
+		<p>Site 1 uses negative space very well to focus the viewer on the key message of every page. As the user scrolls through, each page has on sentence only with key numbers emphasized in bold. This draws the user's focus straight to the key wording. The designer could have put more information on fewer screens, however that may have overwhelmed the user. This design allows the user to focus on the key facts one at a time, and gives them more emphasis. The wording is in very large letters, and fits comfortably on screen with padding around it.</p>
+		<p>Site 2 has very large images of the artist, which are stationary while the text scrolls over it. The first page has the artist's name in incredibly large text, superimposed over an image of the artist. This is where the user's focus is drawn to immediately. In general an image is on one side of the page, while text is on the other side. This gives the page a sense of balance.</p>
+
+	<h2>What makes them similar and different?</h2>
+		<p>Both pages have the same aim of making an impact on the user and delivering information, however they go about it in very different ways.</p>
+		<p>Site 1 uses lots of negative space to focus the user on one key fact per page. It's design is very simple with a solid background and simple text on most of the pages. The design of Site 2 is far more complicated, balancing large images with smaller text.</p>
+		<p>Both sites however are fairly clean and minimalistic in their design. They have a clear focal point, and are fairly uncluttered. This means that the key messages are delivered to the user with little distraction.</p>
+
+
+	<h2>Thumbnail Sketches</h2>
+		<ul>
+			<li><strong>Restaurant Landing Page</strong>
+				<img src="images/Restaurant1.bmp"></li>
+		</ul>
+
+		<p>I used Omnigraffle to construct a wireframe for the landing page of a restaurant's website. The focal point should be the main image - the large box with an X. This box signifies a set of images that scroll through automatically. The restaurant name is in large font at the top, while the key links are below the image in smaller text. This signifies the hierarchy of the page. Both the main header, as well as the set of links balance the image. The header is above the image and justified to the left. The links are below the image and are justified to the right. This gives the overall page a sense of balance.</p>
+
+</body>
+
+</html>
