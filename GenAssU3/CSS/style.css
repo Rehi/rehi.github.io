@@ -1,0 +1,19 @@
+body {  
+	background-image: url(../Assets/stripes.png), url(../Assets/background.jpg);
+	background-repeat: repeat-x, no-repeat;
+	background-position: left top, right top;
+	background-color: #51596c;
+	padding-top: 260px;
+	padding-left: 130px;
+	color: white;
+	font-family: helvetica;
+	font-size: 24px;
+}
+
+hr {
+	width: 40px;
+	background-color: #915d67; 
+	height: 4px; 
+	border: 0;
+}
+
