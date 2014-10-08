@@ -2,6 +2,7 @@ body {
 	background-image: url(../Assets/stripes.png), url(../Assets/background.jpg);
 	background-repeat: repeat-x, no-repeat;
 	background-position: left top, right top;
+	background-size: auto, cover;
 	background-color: #51596c;
 	padding-top: 260px;
 	padding-left: 130px;
