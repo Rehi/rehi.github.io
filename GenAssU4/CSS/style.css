@@ -1,7 +1,27 @@
+* { 
+	margin:0; 
+	padding:0; 
+	box-sizing:border-box; 
+}
+
 h1 {
+	background-color: #000000;
 	font-size: 200px;
 	text-align: center;
 	font-family: 'Poiret One', cursive;
+	color: #FFFFFF;
 }
 
-
+p {
+	height: 800px;
+	background-image: url("fire.jpg");
+	background-position: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 15px;
+	font-size: 25px;
+	color: #FFFFFF;
+	font-family: 'Dancing Script', cursive;
+	font-weight: lighter;
+}
