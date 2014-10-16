@@ -13,15 +13,18 @@ h1 {
 }
 
 p {
-	height: 800px;
+	height: 700px;
 	background-image: url("fire.jpg");
 	background-position: center;
 	background-size: 100%;
 	background-repeat: no-repeat;
+	background-attachment: fixed;
     text-align: center;
     padding-top: 15px;
 	font-size: 25px;
 	color: #FFFFFF;
 	font-family: 'Dancing Script', cursive;
 	font-weight: lighter;
+	border-left: 200px black solid;
+	border-right: 200px black solid;
 }
