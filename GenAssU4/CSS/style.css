@@ -3,28 +3,37 @@
 	padding:0; 
 	box-sizing:border-box; 
 }
-
+body {
+	background: url('fire.jpg') no-repeat;
+	background-size:cover;
+}
+header {
+	margin:0 auto;
+	width:570px;
+}
 h1 {
-	background-color: #000000;
-	font-size: 200px;
+	/*background-color: #000000;*/
+	font-size: 218.4px;
 	text-align: center;
 	font-family: 'Poiret One', cursive;
 	color: #FFFFFF;
 }
 
 p {
-	height: 700px;
+	/*height: 700px;
 	background-image: url("fire.jpg");
 	background-position: center;
 	background-size: 100%;
 	background-repeat: no-repeat;
-	background-attachment: fixed;
-    text-align: center;
-    padding-top: 15px;
-	font-size: 25px;
+	background-attachment: fixed;*/
+	/*text-align: center;
+	padding-top: 15px;
+	font-size: 25px; */
+	font-size:45px;
+	text-align:right;
 	color: #FFFFFF;
 	font-family: 'Dancing Script', cursive;
 	font-weight: lighter;
-	border-left: 200px black solid;
-	border-right: 200px black solid;
+	/*border-left: 200px black solid;
+	border-right: 200px black solid;*/
 }
