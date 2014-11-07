@@ -5,6 +5,10 @@
 	font-family: sans-serif; 
 }
 
+body {
+	color: #333;
+}
+
 nav {
 	float: right;
 }
@@ -16,7 +20,7 @@ header {
 
 nav a {
 	text-decoration: none;
-	color: #464646;	
+	color: #777;	
 	display: inline-block;
 	font-size: 22px;
 	padding: 10px 20px;
