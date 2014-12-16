@@ -1,0 +1,193 @@
+* { 
+	margin:0; 
+	padding:0; 
+	box-sizing: border-box;
+	font-family: sans-serif; 
+}
+
+body {
+	color: #333;
+	font-size: 32px;
+}
+
+nav {
+	float: right;
+	padding: 4% 3% 0 0;
+}
+
+header {
+	display: inline-block;
+	padding: .7em .5em .5em .5em;
+	width: 40%;
+}
+
+header img {
+	max-width: 100%;
+	height: auto;
+}
+
+nav a {
+	text-decoration: none;
+	color: #777;	
+	display: inline-block;
+	font-size: .7em;
+	padding-right: .5em;
+	padding-left: .5em;
+}
+
+div img {
+	float: left;
+	padding-right: .63em;
+	padding-bottom: 1.25em;
+	width: 13em;
+}
+
+h2 {
+	font-size: 1em;
+	text-align: justify;
+	width: 95%;
+	font-weight: normal;
+}
+
+h3 {
+	font-size: .75em;
+}
+
+p {
+	width: 97%;
+	padding-top: .31em;
+	text-align: justify;
+	font-size: .5em;
+}
+
+p a {
+	color: #333;
+}
+
+li {
+	margin-left: 14em;
+	margin-top: .31em;
+}
+
+.text ul, .text ul li {
+	font-size: .8em;
+	margin: .47em 1.9em 0 .8em;
+	width: 95%
+	text-align: justify;
+}
+.main {
+	height: 22em;
+	background-image: url("hero.jpg");
+	background-position: auto;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.text {
+	width: 50%;
+	float: right;
+	margin-right: .31em;
+	padding-top: 2.5em;
+}
+
+.posts {
+	margin-left: 1em;
+	margin-bottom: 1.25em;
+	padding-top: 1.25em;
+}
+
+hr {
+	clear: both;
+	width: 60%;
+	height: 3px;
+	border: 0;
+	background-color: #A90641;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer {
+	font-size: .5em;
+	color: #464646;	
+	text-align: center;
+	clear: both;
+ 	border-top: 1px solid #464646;
+ 	padding: .56em 0;
+ 	margin-top: 1.25em;	
+}
+
+@media (max-width: 1100px) {
+	body {
+		font-size: 22px;
+	}
+}
+
+@media (max-width: 800px) {
+	body {
+		font-size: 14px;
+	}
+}
+
+@media (max-width: 500px) {
+	body {
+		font-size: 12px;
+	}
+	header {
+		width: 80%;
+		margin-left: 10%;
+	}
+	nav {
+		padding: 0;
+		width: 100%;
+		float: none;
+	}
+	nav a {
+		display: block;
+		text-align: center;
+		font-size: 1.4em;
+		padding: .75em;
+	}
+	.main {
+		background-image: url("herocrop.png");
+		background-position: center;
+		background-size: 95%;
+		background-repeat: no-repeat;
+		padding-top: 19em;
+	}
+	.text {
+		float: none;
+		display: block;
+		width: 95%;
+		margin: auto;
+		text-align: center;
+		font-size: 18px;
+	}
+	h2 {
+		text-align: center;
+	}
+	footer {
+		display: block;
+		margin-top: 40em;
+	}
+	.posts {
+		margin: auto;
+		width: 95%;
+		text-align: center;
+		font-size: 22px;
+		padding-bottom: 1.25em
+	}
+	.posts ul li {
+		font-size: .5em;
+		text-align: center;
+		margin: .5em 1em;
+	}
+
+	div img {
+		width: 100%;
+		padding-right: 0;
+		padding-bottom: .5em;
+	}
+	h3 {
+		padding-bottom: .3em;
+	}
+}
