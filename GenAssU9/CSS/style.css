@@ -16,12 +16,13 @@ nav {
 }
 
 header {
-	display: inline-block;
+	background:#fff;
 	padding: .7em .5em .5em .5em;
-	width: 40%;
 }
 
 header img {
+	display:block;
+	float:left;
 	max-width: 100%;
 	height: auto;
 }
